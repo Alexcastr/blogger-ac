@@ -25,7 +25,7 @@ const PostsItem = ({post}) => {
                 alt={title}
                 width={300}
                 height={200}
-                objectFit
+                
               />
             </div>
             <div className="text-center">
